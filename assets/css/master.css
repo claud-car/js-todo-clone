@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box{
+  width: 600px;
+  border: 1px solid black;
+}
+
+.head-box{
+  text-align: center;
+  border-bottom: 1px solid black;
+}
+
+.bottom-box{
+  text-align: center;
+  border-top: 1px solid black;
+}
